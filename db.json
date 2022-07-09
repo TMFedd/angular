@@ -1,0 +1,52 @@
+{
+  "productList": [
+    {
+      "productCode": "Prod01",
+      "productBrand": "AMD",
+      "releaseDate": "2022-07-08T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productCode": "Prod02",
+      "productBrand": "Nvidia",
+      "releaseDate": "2022-07-09T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productCode": "123123",
+      "productBrand": "Nvidia",
+      "releaseDate": "0123-01-01T00:36:45.000Z",
+      "id": 3
+    },
+    {
+      "productCode": "asd",
+      "productBrand": "Nvidia",
+      "releaseDate": "2001-11-01T00:00:00.000Z",
+      "id": 4
+    }
+  ],
+  "languageList": [
+    {
+      "languageId": "EN",
+      "languageDescription": "English"
+    },
+    {
+      "languageId": "DE",
+      "languageDescription": "German"
+    },
+    {
+      "languageId": "FR",
+      "languageDescription": "French"
+    }
+  ],
+  "brandList": [
+    {
+      "brandName": "AMD",
+      "brandColor": "Red"
+    },
+    {
+      "brandName": "Nvidia",
+      "brandColor": "Green"
+    }
+  ]
+}
