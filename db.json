@@ -14,15 +14,9 @@
     },
     {
       "productCode": "123123",
-      "productBrand": "Nvidia",
+      "productBrand": "AMD",
       "releaseDate": "0123-01-01T00:36:45.000Z",
       "id": 3
-    },
-    {
-      "productCode": "asd",
-      "productBrand": "Nvidia",
-      "releaseDate": "2001-11-01T00:00:00.000Z",
-      "id": 4
     }
   ],
   "languageList": [
