@@ -11,12 +11,6 @@
       "productBrand": "Nvidia",
       "releaseDate": "2022-07-09T23:00:00.000Z",
       "id": 2
-    },
-    {
-      "productCode": "123123",
-      "productBrand": "AMD",
-      "releaseDate": "0123-01-01T00:36:45.000Z",
-      "id": 3
     }
   ],
   "languageList": [
